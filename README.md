@@ -1,7 +1,11 @@
 Add More 
+DELETED 
+For 2nd Commit
 .
 .
 .
 # Try-Clone
 Clone to Local
-IMPROVE THIS PAGE 
+WHAT
+
+Add New
