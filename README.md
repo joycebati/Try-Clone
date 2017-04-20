@@ -1,11 +1,10 @@
+WAKE UP
 Add More 
 DELETED 
 For 2nd Commit
-.
-.
+
 .
 # Try-Clone
 Clone to Local
 WHAT
-
-Add New
+DELETED LINE 10
